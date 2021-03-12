@@ -23,8 +23,8 @@
 		},
 		{
 			"type": "photo",
-            "photo_url": "https://deskontao.agilecdn.com.br/4625.jpg?v=17-1387209",
-            "thumb_url": "https://deskontao.agilecdn.com.br/4625.jpg?v=17-1387209",
+            "photo_url": "https://images.tcdn.com.br/img/img_prod/634891/180_rock_roll_popping_candy_sabor_maca_verde_30g_1179_1_20200429134903.jpg",
+            "thumb_url": "https://images.tcdn.com.br/img/img_prod/634891/180_rock_roll_popping_candy_sabor_maca_verde_30g_1179_1_20200429134903.jpg",
             "id": "3",
             "photowidth": "48",
             "photo_height": "48",
@@ -40,7 +40,7 @@
             "photowidth": "48",
             "photo_height": "48",
             "input_message_content": {
-                "message_text": "COD: - BALA ROCK ROLL POPPING CANDY SABOR COCA COLA 30G"
+                "message_text": "COD: 4 - BALA ROCK ROLL POPPING CANDY SABOR COCA COLA 30G"
             }
 		},
 		{
@@ -51,7 +51,7 @@
             "photowidth": "48",
             "photo_height": "48",
             "input_message_content": {
-                "message_text": "COD: - BALA ROCK ROLL POPPING CANDY SABOR UVA 30G"
+                "message_text": "COD: 5 - BALA ROCK ROLL POPPING CANDY SABOR UVA 30G"
             }
 		},
 		{
